@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">vsdk-csdk-v4-freespeech</string>
+    <string name="say_hello">Say something</string>
+</resources>

@@ -1,0 +1,4 @@
+include ':vsdk_csdk-v4'
+include ':vsdk-v4'
+include ':app'
+rootProject.name = "free_speech_android"

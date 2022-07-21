@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('vsdk_csdk-v4.aar'))

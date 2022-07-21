@@ -1,0 +1,29 @@
+{
+  "version": "2.0",
+  "csdk": {
+    "asr": {
+      "recognizers": {
+        "rec": {
+          "acmods": [
+            "acmod6_9000_enu_gen_car_f16_v2_0_0.dat"
+          ]
+        }
+      },
+      "models": {
+        "FreeSpeech": {
+          "type": "free-speech",
+          "file": "ctx_eng-US_vocon_car_202005050935.fcf",
+          "extra_models": {
+            "LM1": "lm-adjunct_eng-US_vocon_car_restricted_202004291046.dat",
+            "LM2": "lm-assistant_eng-US_vocon_car_restricted_202002141507.dat",
+            "LM3": "lm-navigation_eng-US_vocon_car_restricted_202002141507.dat",
+            "LM4": "lm-wuw_eng-US_vocon_car_restricted_202004190725.dat"
+          },
+          "settings": {
+            "LH_SEARCH_PARAM_TSILENCE": 1000
+          }
+        }
+      }
+    }
+  }
+}

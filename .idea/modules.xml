@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/free_speech_android.iml" filepath="$PROJECT_DIR$/.idea/modules/free_speech_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/free_speech_android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/free_speech_android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/free_speech_android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/free_speech_android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/free_speech_android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/free_speech_android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/free_speech_android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/free_speech_android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vsdk-v4/free_speech_android.vsdk-v4.iml" filepath="$PROJECT_DIR$/.idea/modules/vsdk-v4/free_speech_android.vsdk-v4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vsdk_csdk-v4/free_speech_android.vsdk_csdk-v4.iml" filepath="$PROJECT_DIR$/.idea/modules/vsdk_csdk-v4/free_speech_android.vsdk_csdk-v4.iml" />
+    </modules>
+  </component>
+</project>

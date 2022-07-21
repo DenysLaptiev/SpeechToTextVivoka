@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:vsdk_csdk-v4:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vsdk_csdk-v4/build/.transforms/09ecf173a647b122a99ff1300110ec0e/jetified-vsdk_csdk-v4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/vsdk_csdk-v4/build/.transforms/09ecf173a647b122a99ff1300110ec0e/jetified-vsdk_csdk-v4/res" />
+      <root url="file://$PROJECT_DIR$/vsdk_csdk-v4/build/.transforms/09ecf173a647b122a99ff1300110ec0e/jetified-vsdk_csdk-v4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
